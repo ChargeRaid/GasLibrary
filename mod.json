@@ -4,6 +4,6 @@
   "author": "Zelaux",
   "description": "Java library for java mods",
   "version": "1.6.04",
-  "minGameVersion": 136,
+  "minGameVersion": 137,
   "main": "gas.GasLibMod"
 }
